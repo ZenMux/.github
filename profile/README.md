@@ -7,4 +7,4 @@ With ZenMux, developers can call models from providers such as OpenAI, Anthropic
 - Homepage: https://zenmux.ai
 - X(Twitter): [@ZenMuxAI](https://twitter.com/ZenMuxAI)
 - Discord:  https://discord.gg/vHZZzj84Bm
-- Documentation: https://docs.zenmux.ai
+- Documentation: https://zenmux.ai/docs/
